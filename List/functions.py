@@ -12,3 +12,7 @@ letters = ['b', 'c', 'r', 's', 'n']
 print(letters.index('c'))
 print(letters.index('n'))
 print(letters.index('r'))
+
+x = ["Now", "we", "making", "progress"]
+x.remove("we")
+print(x)
